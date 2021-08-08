@@ -1,5 +1,5 @@
 ### Hi, I'm Furkan Coşkun</h1>
-##### *I'm a fourth-year Electrical Electronics Engineering student at Marmara University, C and C++ developer candidate. I really enjoy learning languages. <br /> My view on life is "keep going never stop.":runner:*</h3>
+##### *I'm a 4th year Electrical Electronics Engineering student at Marmara University, developer candidate of C and C++ . I really enjoy learning languages. <br /> My view on life is "keep going never stop.":runner:*</h3>
 
 - 🔭 I’m currently working on [Rocket Competition Medium Altitude](https://www.linkedin.com/in/aeronist-aerospace-34137619b/)
 
