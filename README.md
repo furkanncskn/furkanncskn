@@ -1,18 +1,44 @@
 ### Hi, I'm Furkan Coşkun</h1>
-##### *I'm a 4th year Electrical Electronics Engineering student at Marmara University. I’m an enthusiastic candidate of engineer with creative problem-solving skills. I am interested in many areas of software as embedded systems, database, web design. I really enjoy learning languages. <br /> My view on life is "keep going never stop.":runner:*</h3>
+In September, I will graduate from Marmara University, Department of Electrical and Electronics Engineering.
 
-- 🔭 I’m currently working on [Rocket Competition Medium Altitude](https://www.linkedin.com/in/aeronist-aerospace-34137619b/)
+I have an inquisitive and selfmotivated personality. Over the course of my studies, I have developed strong communication skills, enjoy collaboration and teamwork, and have a variety of interest that I use to maximize my potential.
 
-- 🌱 I’m currently learning **C, C#, PostgreSQL, Microsoft SQL Server and C++**
+Since March 2021, I have been the team leader of Aeronist Aerospace's embedded systems software team.
 
-- 📫 How to reach me **furkancoskunn96@gmail.com**
+In my previos internship with in ARG3, I completed by gaining many new skills in embedded system software engineering. I decided to do my next internship at SFS because of my high interest and passion for software. Now in my internship with in SFS, I keep gaining new skills in software.
+
+---
+
+**<u>Tools & Technologies</u>**
+
+* C
+* C# 
+* SQL
+* Transact-SQL
+* PL/pgSQL
+* Git
+* ARM - Cortex
+
+**<u>Interpersonnal Skills</u>**
+
+* Analytical Thinking
+* Problem Solving Skills
+* Communication
+* Teamwork & Team Management
+
+<br /> My view on life is "keep going never stop.":runner:*</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/furkancoskunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkancoskunn/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/furkanncskn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/furkanncskn/" height="30" width="40" /></a>
+<!--
 <a href="https://www.youtube.com/channel/ucvdpfdsywzesvedtlinom-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvdpfdsywzesvedtlinom-g" height="30" width="40" /></a>
+-->
 </p>
+
+
+**furkancoskunn96@gmail.com**
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
