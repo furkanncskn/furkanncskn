@@ -1,13 +1,15 @@
 ### Hi, I'm Furkan Coşkun</h1>
+<p>
 In September, I will graduate from Marmara University, Department of Electrical and Electronics Engineering.
 
 Since March 2021, I have been the team leader of Aeronist Aerospace's embedded systems software team.
 
 In my previos internship with in ARG3, I completed by gaining many new skills in embedded system software engineering. I decided to do my next internship at SFS because of my high interest and passion for software. Now in my internship with in SFS, I keep gaining new skills in software.
+</p>
 
 ---
 
-**<u>Tools & Technologies</u>**
+<ins>**Tools & Technologies**</ins>
 
 * C
 * C# 
@@ -17,7 +19,7 @@ In my previos internship with in ARG3, I completed by gaining many new skills in
 * Git
 * ARM - Cortex
 
-**<u>Interpersonnal Skills</u>**
+<ins>**Interpersonnal Skills**</ins>
 
 * Analytical Thinking
 * Problem Solving Skills
