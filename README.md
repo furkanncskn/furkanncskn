@@ -1,12 +1,10 @@
 ### Hi, I'm Furkan Coşkun</h1>
 <p>
-In September, I will graduate from Marmara University, department of Electrical and Electronics Engineering.
 
-I have an inquisitive and selfmotivated personality. Over the course of my studies, I have developed strong communication skills, enjoy collaboration and teamwork, and have a variety of interest that I use to maximize my potential.
+I have an inquisitive and selfmotivated personality. I have developed strong communication skills, enjoy collaboration and teamwork, and have a variety of interest that I use to maximize my potential.
 
-Since March 2021, I have been the team leader of Aeronist Aerospace's embedded systems software team.
-
-In my previos internship with in ARG3, I completed by gaining many new skills in embedded system software engineering. Now in my internship with in SFS, I keep gaining new skills in software. 
+If you are interested in contacting me in regards to a position with your company, please email me at [furkancoskunn96@gmail.com], or feel free to connect with me on LinkedIn.
+  
 </p>
 
 ---
@@ -15,6 +13,8 @@ In my previos internship with in ARG3, I completed by gaining many new skills in
 
 * C
 * C# 
+* HTML
+* Javascript
 * SQL
 * Transact-SQL
 * PL/pgSQL
