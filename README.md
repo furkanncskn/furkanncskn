@@ -1,48 +1,34 @@
-### Hi, I'm Furkan Coşkun</h1>
-<p>
+### Hi, I'm Furkan Coşkun 👋
 
-I have an inquisitive and selfmotivated personality. I have developed strong communication skills, enjoy collaboration and teamwork, and have a variety of interest that I use to maximize my potential.
+I am a highly skilled and results-oriented **Backend Software Developer** with over 3 years of experience in designing and building scalable, efficient, and high-performance applications. I have a strong foundation in **C#, .NET Framework, .NET Core**, and **Entity Framework**, along with expertise in **Oracle** and **SQL Server** for database design and optimization. Passionate about clean architecture, I focus on **SOLID principles** and creating maintainable code.
 
-If you are interested in contacting me in regards to a position with your company, please email me at [furkancoskunn96@gmail.com], or feel free to connect with me on LinkedIn.
-  
-</p>
+I thrive in **Agile** environments and have a collaborative approach, working effectively with cross-functional teams to deliver high-quality solutions on time. I am constantly exploring new trends in software development and committed to staying up-to-date with the latest tools and technologies.
+
+If you are interested in connecting or collaborating, feel free to reach out via [email](mailto:furkancoskunn96@gmail.com) or through my LinkedIn.
 
 ---
 
 <ins>**Tools & Technologies**</ins>
 
-* C
-* C# 
-* HTML
-* Javascript
-* SQL
-* Transact-SQL
-* PL/pgSQL
-* Git
-* ARM - Cortex
+- **Programming Languages & Frameworks**:  
+  - C#, **.NET Core**, **ASP.NET Core**, **Entity Framework**, **RESTful APIs**, **SOAP Services**
+  
+- **Databases**:  
+  - **Oracle**, **SQL Server**, PostgreSQL (basic knowledge)
 
-<ins>**Interpersonnal Skills**</ins>
+- **Tools & Methodologies**:  
+  - **Git**, **Agile**, **SOLID Principles**, **Clean Architecture**
 
-* Analytical Thinking
-* Problem Solving Skills
-* Communication
-* Teamwork & Team Management
+- **Areas of Focus**:  
+  - **Performance Optimization**, **Security**, **Scalability**
 
-<br /> My view on life is "keep going never stop.":runner:*</h3>
+---
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/furkancoskunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkancoskunn/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/furkanncskn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/furkanncskn/" height="30" width="40" /></a>
-<!--
-<a href="https://www.youtube.com/channel/ucvdpfdsywzesvedtlinom-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvdpfdsywzesvedtlinom-g" height="30" width="40" /></a>
--->
+  <a href="https://www.linkedin.com/in/furkancoskunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkancoskunn/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/furkanncskn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/furkanncskn/" height="30" width="40" /></a>
 </p>
 
-
 **furkancoskunn96@gmail.com**
-
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
--->
